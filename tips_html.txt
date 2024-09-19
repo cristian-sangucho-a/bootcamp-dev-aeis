@@ -1,0 +1,3 @@
+solo un H1 por html por que por ese h1 google busca 
+igual los <a> los detecta como nuevas paginas
+poner alt en las <img>

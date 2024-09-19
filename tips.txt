@@ -1,0 +1,16 @@
+Extensions
+live server
+auto rename tag: fill the tags and rename automatically when you edit the tag
+Prettier:
+    Conf addicional: file > preferencer > setting > search(formatter)
+                    then, activate el Format On Save
+Better comments: mejora la visualizacion de comentarios
+    * resaltar
+    ?
+Material icons theme
+
+
+shortcuts
+ctr + (flecha): browse by word
+ctr + shift + p: open the vs code command palette
+ctr + /: comentar las lineas de codigo

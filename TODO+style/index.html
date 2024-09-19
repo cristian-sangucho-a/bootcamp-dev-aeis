@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 class="title">Clase 03</h1>
+    <h2 class="subtitle">TODO LIST VANILLA JS</h2>
+    <div class="container">
+      <p class="task">TASK</p>
+      <ul id="list"></ul>
+      <form action="">
+        <input class="input" type="text" />
+        <button class="btn">ADD TODO</button>
+      </form>
+    </div>
+    <!-- ---
+    <div class="box">Contenido</div>
+
+    <ul id="list"></ul>
+    --- -->
+    <script>
+      const form = document.querySelector("form");
+      const list = document.querySelector("#list");
+      //const btn = document.querySelector("button")
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const li = document.createElement("li");
+        const text = event.target[0].value;
+        li.innerText = text;
+        list.appendChild(li);
+        event.target[0].value = "";
+      });
+    </script>
+  </body>
+</html>
