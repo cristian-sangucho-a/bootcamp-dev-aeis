@@ -8,6 +8,7 @@ Better comments: mejora la visualizacion de comentarios
     * resaltar
     ?
 Material icons theme
+npm intellisense: autocompleta comando npm
 
 
 shortcuts
