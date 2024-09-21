@@ -1,0 +1,15 @@
+install:
+npm i -D daisyui@latest
+
+agregar esto a tailwind.txt 
+  daisyui: {
+    themes: ["halloween"],
+  }, 
+  plugins: [
+    daisyui,
+  ],
+
+
+  luego par dar el tema en el index.html
+  <html lang="en" data-theme="halloween">
+esta linea para que se aplique el tema

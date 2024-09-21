@@ -1,0 +1,10 @@
+https://tailwindcss.com/docs/guides/vite
+
+in step 4. 
+    delete app.css
+    delete content of index.css
+        no delete root and font 
+        paste:
+            @tailwind base;
+            @tailwind components;
+            @tailwind utilities;
