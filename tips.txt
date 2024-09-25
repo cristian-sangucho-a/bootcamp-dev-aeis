@@ -6,9 +6,12 @@ Prettier:
                     then, activate el Format On Save
 Better comments: mejora la visualizacion de comentarios
     * resaltar
-    ?
+    ? 
 Material icons theme
 npm intellisense: autocompleta comando npm
+
+Browser extensions
+React developer tools
 
 
 shortcuts
