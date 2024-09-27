@@ -1,5 +1,5 @@
 Extensions
-live server
+live server:
 auto rename tag: fill the tags and rename automatically when you edit the tag
 Prettier:
     Conf addicional: file > preferences > setting > search(formatter)
@@ -8,7 +8,8 @@ Prettier:
 Better comments: mejora la visualizacion de comentarios
     * resaltar
     ? 
-Material icons theme
+prettier plugin tailwind(search in google): https://tailwindcss.com/blog/automatic-class-sorting-with-prettier
+Material icons theme:
 npm intellisense: autocompleta comando npm
 
 Browser extensions
