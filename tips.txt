@@ -2,8 +2,9 @@ Extensions
 live server
 auto rename tag: fill the tags and rename automatically when you edit the tag
 Prettier:
-    Conf addicional: file > preferencer > setting > search(formatter)
+    Conf addicional: file > preferences > setting > search(formatter)
                     then, activate el Format On Save
+                    then, Default formatter: Prettier Code - formatter
 Better comments: mejora la visualizacion de comentarios
     * resaltar
     ? 
